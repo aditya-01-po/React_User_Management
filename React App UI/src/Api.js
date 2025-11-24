@@ -5,7 +5,7 @@ import axios from 'axios';
  */
 const constants = {
     api: {
-        baseURL: 'https://apimreact.azure-api.net/learnfuncapp',
+        baseURL: 'Enter your Azure credentials here',
     },
 };
 
@@ -14,5 +14,5 @@ const constants = {
  */
 export default axios.create({
     baseURL: constants.api.baseURL,
-    headers: {'Ocp-Apim-Subscription-Key': '36a29e9638e24019bb843d3bd3e9b009' }
+    headers: {'Ocp-Apim-Subscription-Key': 'Enter your key here from Azure API' }
 });
