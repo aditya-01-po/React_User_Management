@@ -101,12 +101,5 @@ backend/
 
 Below is the high‑level architecture of the system:
 
-Code
-+-------------+        HTTPS        +----------------+        Storage SDK        +-------------------+
-|   React UI  |  <--------------->  | Azure Functions|  <--------------------->  | Azure Table Storage|
-+-------------+                     +----------------+                           +-------------------+
-        |                                   |
-        |                                   |
-        |                                   +--> Future: Azure AD B2C for authentication
-        |
-        +--> Browser calls secured APIs with JWT tokens
+<img width="684" height="192" alt="image" src="https://github.com/user-attachments/assets/6c468a12-0527-4597-8e04-32193bd2ac2b" />
+
