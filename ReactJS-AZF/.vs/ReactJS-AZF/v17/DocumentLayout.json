@@ -1,0 +1,108 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\aditgour\\source\\repos\\Azure Learning\\ReactJS-AZF\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\aditgour\\source\\repos\\Azure Learning\\ReactJS-AZF\\src\\functions\\GetAlldata.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\functions\\GetAlldata.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\aditgour\\source\\repos\\Azure Learning\\ReactJS-AZF\\src\\functions\\DeleteData.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\functions\\DeleteData.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\aditgour\\source\\repos\\Azure Learning\\ReactJS-AZF\\src\\functions\\SaveData.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\functions\\SaveData.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\aditgour\\source\\repos\\Azure Learning\\ReactJS-AZF\\src\\functions\\GetData.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\functions\\GetData.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GetAlldata.js",
+              "DocumentMoniker": "C:\\Users\\aditgour\\source\\repos\\Azure Learning\\ReactJS-AZF\\src\\functions\\GetAlldata.js",
+              "RelativeDocumentMoniker": "src\\functions\\GetAlldata.js",
+              "ToolTip": "C:\\Users\\aditgour\\source\\repos\\Azure Learning\\ReactJS-AZF\\src\\functions\\GetAlldata.js",
+              "RelativeToolTip": "src\\functions\\GetAlldata.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-11-24T14:26:37.83Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DeleteData.js",
+              "DocumentMoniker": "C:\\Users\\aditgour\\source\\repos\\Azure Learning\\ReactJS-AZF\\src\\functions\\DeleteData.js",
+              "RelativeDocumentMoniker": "src\\functions\\DeleteData.js",
+              "ToolTip": "C:\\Users\\aditgour\\source\\repos\\Azure Learning\\ReactJS-AZF\\src\\functions\\DeleteData.js",
+              "RelativeToolTip": "src\\functions\\DeleteData.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-11-24T14:25:47.653Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GetData.js",
+              "DocumentMoniker": "C:\\Users\\aditgour\\source\\repos\\Azure Learning\\ReactJS-AZF\\src\\functions\\GetData.js",
+              "RelativeDocumentMoniker": "src\\functions\\GetData.js",
+              "ToolTip": "C:\\Users\\aditgour\\source\\repos\\Azure Learning\\ReactJS-AZF\\src\\functions\\GetData.js",
+              "RelativeToolTip": "src\\functions\\GetData.js",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-11-24T14:24:48.4Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SaveData.js",
+              "DocumentMoniker": "C:\\Users\\aditgour\\source\\repos\\Azure Learning\\ReactJS-AZF\\src\\functions\\SaveData.js",
+              "RelativeDocumentMoniker": "src\\functions\\SaveData.js",
+              "ToolTip": "C:\\Users\\aditgour\\source\\repos\\Azure Learning\\ReactJS-AZF\\src\\functions\\SaveData.js",
+              "RelativeToolTip": "src\\functions\\SaveData.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-11-24T14:22:53.229Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
