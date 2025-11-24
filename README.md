@@ -1,15 +1,19 @@
 **React + Azure Functions CRUD Application**
 
 **📖 Project Overview**
+
 This project demonstrates a full‑stack application with:
+
 **Frontend:** A React application that allows users to view, update, and delete their profile data (location, interests, email).
 **Backend:** Azure Functions(AZF) APIs that perform CRUD operations against Azure Table Storage.
 **Data Flow:** The frontend calls the backend APIs, which interact with Azure Table Storage to persist user data.
 
 Future enhancements include
+
 **Azure AD / Azure AD B2C integration** for secure user authentication and identity management.
 
 **🛠 Tech Stack**
+
 **Frontend:** React, React Bootstrap
 **Backend:** Azure Functions (Node.js runtime)
 **Database:** Azure Table Storage
@@ -17,6 +21,7 @@ Future enhancements include
 **Other:** Azure Storage Explorer for local testing
 
 **✨ Features**
+
   **User Profile Management:**
   1.View logged‑in user’s data
   2.Update interests and location
@@ -30,6 +35,7 @@ Future enhancements include
 **🚀 Setup Instructions**
 
 **Frontend (React)**
+
 1.Navigate to the frontend folder.
 2.Install dependencies:
   npm install
@@ -38,6 +44,7 @@ Future enhancements include
 4.The app runs at http://localhost:3000.
 
 **Backend (Azure Functions)**
+
 1.Navigate to the backend folder.
 2.Install dependencies:
   npm install
@@ -55,6 +62,7 @@ func start
 5.The APIs will be available at http://localhost:7071.
 
 **📂 Project Structure**
+
 frontend/
   ├── src/
   │   └── App.js
@@ -70,6 +78,7 @@ backend/
   └── node_modules/ (ignored)
   
 **🏗 Architecture Diagram**
+
 Below is the high‑level architecture of the system:
 
 Code
