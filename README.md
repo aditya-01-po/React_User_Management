@@ -4,11 +4,11 @@
 
 This project demonstrates a full‑stack application with:
 
-**Frontend:** A React application that allows users to view, update, and delete their profile data (location, interests, email).
-
-**Backend:** Azure Functions(AZF) APIs that perform CRUD operations against Azure Table Storage.
-
-**Data Flow:** The frontend calls the backend APIs, which interact with Azure Table Storage to persist user data.
+ **Frontend:** A React application that allows users to view, update, and delete their profile data (location, interests, email).
+ 
+ **Backend:** Azure Functions(AZF) APIs that perform CRUD operations against Azure Table Storage.
+ 
+ **Data Flow:** The frontend calls the backend APIs, which interact with Azure Table Storage to persist user data.
 
 Future enhancements include
 
@@ -83,19 +83,8 @@ func start
 
 **📂 Project Structure**
 
-frontend/
-  ├── src/
-  │   └── App.js
-  ├── Api.js
-  ├── package.json
-  └── node_modules/ (ignored)
+<img width="248" height="259" alt="image" src="https://github.com/user-attachments/assets/2ad9917e-a5a7-4f88-9f7c-d15368de03d1" />
 
-backend/
-  ├── index.js
-  ├── host.json
-  ├── local.settings.json (ignored)
-  ├── package.json
-  └── node_modules/ (ignored)
   
 **🏗 Architecture Diagram**
 
