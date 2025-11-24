@@ -98,7 +98,7 @@ __blobstorage__
 __queuestorage__
 __azurite_db*__.json
 
-React App UI/API.js
+React App UI/Api.js
 React App UI/.env
 React App UI/node_modules/
 
